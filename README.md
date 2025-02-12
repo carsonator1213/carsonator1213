@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Carson Adwell and am currently a student studying electrical engineering.\n
+My name is Carson Adwell and am currently a student studying electrical engineering.
 This will mark the beginning of my journey on GitHub so enjoy.
 <!--
 **carsonator1213/carsonator1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
